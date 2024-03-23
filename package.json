@@ -1,0 +1,21 @@
+{
+  "name": "@codebase-rocket/rnw-helper-modal",
+  "description": "React helper modal library for iOS, Android and Web to render modal globally.",
+  "version": "1.0.1",
+  "private": false,
+  "main": "rnw-helper-modal",
+  "scripts": {},
+  "author": {
+    "name": "Anand Kumar Singh"
+  },
+  "contributors": [
+    {
+      "name": "Shivanshu Jindal"
+    }
+  ],
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
